@@ -1,0 +1,14 @@
+# Temporäre Dateien
+*.tmp
+*.log
+
+# Editor- oder IDE-Dateien
+.vscode/
+.idea/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+
+FOSS-Trinity.wiki/
